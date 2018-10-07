@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538883514 source:c:\users\candela\documents\tp2_laboratorio\tp2_abm_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538896815 source:c:\users\candela\documents\tp2_laboratorio\tp2_abm_laboratorio\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"utn.h"
+
+1538893919 c:\users\candela\documents\tp2_laboratorio\tp2_abm_laboratorio\arrayemployees.h
+
+1538883514 c:\users\candela\documents\tp2_laboratorio\tp2_abm_laboratorio\utn.h
+
+1538891255 source:c:\users\candela\documents\tp2_laboratorio\tp2_abm_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"utn.h"
+
